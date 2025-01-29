@@ -2,19 +2,19 @@
 # https://github.com/Damnever/pigar
 
 # bot.py: 11
-Keras == 2.1.5
+Keras == 2.11.0
 
 # bot.py: 2
 # image_processing.py: 7
 # img_scrape.py: 2
-matplotlib == 1.4.3
+matplotlib == 3.7.1
 
 # bot.py: 10
 # image_processing.py: 3
-numpy == 1.14.2
+numpy >=1.24.3
 
 # image_processing.py: 1
-opencv_python == 3.4.0.12
+opencv_python == 4.5.5.62
 
 # bot.py: 3
 # img_scrape.py: 3
@@ -27,7 +27,9 @@ robobrowser == 0.5.3
 # image_processing.py: 5,8
 # img_scrape.py: 1
 # io_helper.py: 1
-scikit_image == 0.11.3
+scikit_image == 0.20.0
 
 # image_processing.py: 6
-scipy == 1.0.1
+scipy == 1.9.1
+
+werkzeug==0.16.1
