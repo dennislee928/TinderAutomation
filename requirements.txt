@@ -32,4 +32,4 @@ scikit_image == 0.20.0
 # image_processing.py: 6
 scipy == 1.9.1
 
-werkzeug==0.16.1
+werkzeug==3.1.4
