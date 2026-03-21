@@ -32,4 +32,5 @@ scikit_image == 0.20.0
 # image_processing.py: 6
 scipy == 1.9.1
 
-werkzeug==3.1.4
+werkzeug==3.1.5
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
